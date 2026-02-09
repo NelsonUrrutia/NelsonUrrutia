@@ -8,7 +8,12 @@ I focus on working closely with fundamentals, understanding how tools work, sett
 - Clear communication
 - Consistency
 - Patience
-- Honesty
+
+## I'm currently working on
+- **[Cherry Files Picker](https://github.com/NelsonUrrutia/cherry-files-picker)** - a Python CLI tool to copy the final state of selected files from one Git branch into another in a single commit. 
+
+## I'm currently learning
+- **Python**. My goal is to learn Python so I can apply that knowledge to develop tools, whether command-line or server-based, with the possibility of integrating AI. Many AI models use Python, which creates a wealth of opportunities to apply my skills and help solve business problems or develop tools to improve workflows.
 
 ## Work experience
 - For the past five years, I been working on creating, developing, and giving maintenance to *Shopify stores*.
@@ -20,14 +25,6 @@ I focus on working closely with fundamentals, understanding how tools work, sett
   - HTML
   - CSS
   - Git/GitHub
-  
-
-## I'm currently working on
-- **[Cherry Files Picker](https://github.com/NelsonUrrutia/cherry-files-picker)** - a Python CLI tool to copy the final state of selected files from one Git branch into another in a single commit. 
-
-## I'm currently learning
-- **Python**. My goal is to learn Python so I can apply that knowledge to develop tools, whether command-line or server-based, with the possibility of integrating AI. Many AI models use Python, which creates a wealth of opportunities to apply my skills and help solve business problems or develop tools to improve workflows.
-
 
 
 
