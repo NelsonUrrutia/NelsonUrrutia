@@ -15,7 +15,6 @@ I focus on working closely with fundamentals, understanding how tools work, sett
 | [<img src="assets/cherry-files-toolkit-banner.png" alt="Cherry Files Toolkit banner" width="400" height="250">](https://github.com/NelsonUrrutia/cherry-files-toolkit) |
 | A Python TUI with git tools to improve git workflows. |
 
-- **[Cherry Files Toolkit](https://github.com/NelsonUrrutia/cherry-files-toolkit)** - a Python TUI with git tools to improve git workflows.
 - **[Cherry Files Picker](https://github.com/NelsonUrrutia/cherry-files-picker)** - a Python CLI tool to copy the final state of selected files from one Git branch into another in a single commit.
 
 ## I'm currently learning
