@@ -5,17 +5,27 @@ I focus on working closely with fundamentals, understanding how tools work, sett
 
 ## My projects
 
-| [Honemsg](https://github.com/NelsonUrrutia/honemsg) | [VOID](https://github.com/NelsonUrrutia/void) |
-| :---: | :---: |
-| [<img src="assets/honemsg-thumbnail.png" alt="Honemsg thumbnail" width="400" height="250">](https://github.com/NelsonUrrutia/honemsg) | [<img src="assets/void-thumbnail.png" alt="VOID thumbnail" width="400" height="250">](https://github.com/NelsonUrrutia/void) |
-| Hone your message before you send it. | An offline diary to be used in the terminal; made with Python and SQLite. |
+### [Honemsg](https://github.com/NelsonUrrutia/honemsg)
+**Hone your message before you send it.**
 
-| [Cherry Files Toolkit](https://github.com/NelsonUrrutia/cherry-files-toolkit) |
-| :---: |
-| [<img src="assets/cherry-files-toolkit-banner.png" alt="Cherry Files Toolkit banner" width="400" height="250">](https://github.com/NelsonUrrutia/cherry-files-toolkit) |
-| A Python TUI with git tools to improve git workflows. |
+[<img src="assets/honemsg-thumbnail.png" alt="Honemsg thumbnail" width="900">](https://github.com/NelsonUrrutia/honemsg) 
 
-- **[Cherry Files Picker](https://github.com/NelsonUrrutia/cherry-files-picker)** - a Python CLI tool to copy the final state of selected files from one Git branch into another in a single commit.
+
+
+### [VOID](https://github.com/NelsonUrrutia/void)
+**An offline diary to be used in the terminal; made with Python and SQLite.**
+
+[<img src="assets/void-thumbnail.png" alt="VOID thumbnail" width="900">](https://github.com/NelsonUrrutia/void)
+
+
+
+### [Cherry Files Toolkit](https://github.com/NelsonUrrutia/cherry-files-toolkit)
+**A Python TUI with git tools to improve git workflows.**
+
+[<img src="assets/cherry-files-toolkit-banner.png" alt="Cherry Files Toolkit banner" width="900">](https://github.com/NelsonUrrutia/cherry-files-toolkit)
+
+
+**[Cherry Files Picker](https://github.com/NelsonUrrutia/cherry-files-picker)** - a Python CLI tool to copy the final state of selected files from one Git branch into another in a single commit.
 
 ## I'm currently learning
 
