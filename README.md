@@ -25,8 +25,6 @@ I focus on working closely with fundamentals, understanding how tools work, sett
 [<img src="assets/cherry-files-toolkit-banner.png" alt="Cherry Files Toolkit banner" width="900">](https://github.com/NelsonUrrutia/cherry-files-toolkit)
 
 
-**[Cherry Files Picker](https://github.com/NelsonUrrutia/cherry-files-picker)** - a Python CLI tool to copy the final state of selected files from one Git branch into another in a single commit.
-
 ## I'm currently learning
 
 - **Python**. My goal is to learn Python so I can apply that knowledge to develop tools, whether command-line or server-based, with the possibility of integrating AI. Many AI models use Python, which creates a wealth of opportunities to apply my skills and help solve business problems or develop tools to improve workflows.
