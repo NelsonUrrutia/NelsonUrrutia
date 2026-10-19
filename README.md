@@ -13,20 +13,23 @@ I focus on working closely with fundamentals, understanding how tools work, sett
 
 ### [Honemsg](https://github.com/NelsonUrrutia/honemsg)
 **Hone your message before you send it.**
+> 🌐 ES **Afila tus mensajes antes de enviarlos.**
 
 [<img src="assets/honemsg-thumbnail.png" alt="Honemsg thumbnail" width="900">](https://github.com/NelsonUrrutia/honemsg) 
 
 
 
 ### [VOID](https://github.com/NelsonUrrutia/void)
-**An offline diary to be used in the terminal; made with Python and SQLite.**
+**An offline diary for the terminal, built with Python and SQLite.**
+> 🌐 ES **Un diario para la terminal que funciona sin conexión. Hecho con Python y SQLite.**
 
 [<img src="assets/void-thumbnail.png" alt="VOID thumbnail" width="900">](https://github.com/NelsonUrrutia/void)
 
 
 
 ### [Cherry Files Toolkit](https://github.com/NelsonUrrutia/cherry-files-toolkit)
-**A Python TUI with git tools to improve git workflows.**
+**A Python TUI with tools to speed up your git workflow.**
+> 🌐 ES **Una interfaz de terminal (TUI) en Python con herramientas para agilizar el trabajo con git.**
 
 [<img src="assets/cherry-files-toolkit-banner.png" alt="Cherry Files Toolkit banner" width="900">](https://github.com/NelsonUrrutia/cherry-files-toolkit)
 
