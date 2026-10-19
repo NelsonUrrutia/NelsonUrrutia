@@ -7,6 +7,7 @@ I focus on working closely with fundamentals, understanding how tools work, sett
 
 ### [Conéctame](https://github.com/NelsonUrrutia/conectame)
 **Conéctame ayuda a personas mayores a unirse a reuniones de Zoom con un toque.**
+
 [<img src="assets/conectame_banner.png" alt="Conéctame thumbnail" width="900">](https://github.com/NelsonUrrutia/conectame) 
 
 ### [Honemsg](https://github.com/NelsonUrrutia/honemsg)
